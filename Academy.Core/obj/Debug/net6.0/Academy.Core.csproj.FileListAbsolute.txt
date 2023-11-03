@@ -1,0 +1,11 @@
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\bin\Debug\net6.0\Academy.Core.deps.json
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfo.cs
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.dll
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\refint\Academy.Core.dll
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\Academy.Core.pdb
+C:\Users\ASUS ROG\Desktop\Academy.App\Academy.Core\obj\Debug\net6.0\ref\Academy.Core.dll
