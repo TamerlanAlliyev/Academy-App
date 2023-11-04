@@ -37,6 +37,7 @@
 
         async Task CreateStudent()
         {
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Add Full Name");
             string FullName = Console.ReadLine();
             Console.WriteLine("Add Group");
@@ -67,6 +68,7 @@
 
         async Task UpdateStudent()
         {
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Add ID");
             string Id = Console.ReadLine();
             Console.WriteLine("Add Full Name");
@@ -99,6 +101,7 @@
 
         async Task RemoveStudent()
         {
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Add ID");
             string Id = Console.ReadLine();
             string result = await studentService.RemoveAsync(Id);
@@ -108,11 +111,13 @@
 
         async Task GetAllStudent()
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
             await studentService.GetAllAsync();
         }
 
         async Task GetById()
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Add ID");
             string Id = Console.ReadLine();
             string result =await studentService.GetAsync(Id);
@@ -121,11 +126,12 @@
 
         async Task Menu()
         {
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("1.Create");
             Console.WriteLine("2.Update");
             Console.WriteLine("3.Remove");
-            Console.WriteLine("4.Get");
-            Console.WriteLine("5.Get All");
+            Console.WriteLine("4.Get All");
+            Console.WriteLine("5.Get");
             Console.WriteLine("0.Close");
         }
     }

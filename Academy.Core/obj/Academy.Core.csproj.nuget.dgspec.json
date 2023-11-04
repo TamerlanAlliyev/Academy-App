@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS ROG\\Desktop\\Academy.App\\Academy.Core\\Academy.Core.csproj": {}
+    "C:\\Users\\ASUS ROG\\Desktop\\New folder (2)\\Academy-App\\Academy.Core\\Academy.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS ROG\\Desktop\\Academy.App\\Academy.Core\\Academy.Core.csproj": {
+    "C:\\Users\\ASUS ROG\\Desktop\\New folder (2)\\Academy-App\\Academy.Core\\Academy.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS ROG\\Desktop\\Academy.App\\Academy.Core\\Academy.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS ROG\\Desktop\\New folder (2)\\Academy-App\\Academy.Core\\Academy.Core.csproj",
         "projectName": "Academy.Core",
-        "projectPath": "C:\\Users\\ASUS ROG\\Desktop\\Academy.App\\Academy.Core\\Academy.Core.csproj",
+        "projectPath": "C:\\Users\\ASUS ROG\\Desktop\\New folder (2)\\Academy-App\\Academy.Core\\Academy.Core.csproj",
         "packagesPath": "C:\\Users\\ASUS ROG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS ROG\\Desktop\\Academy.App\\Academy.Core\\obj\\",
+        "outputPath": "C:\\Users\\ASUS ROG\\Desktop\\New folder (2)\\Academy-App\\Academy.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
