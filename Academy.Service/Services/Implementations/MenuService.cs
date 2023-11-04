@@ -28,6 +28,8 @@
                         await GetById();
                         break;
                     default:
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Choose Right");
                         break;
                 }
                 await Menu();
